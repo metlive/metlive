@@ -1,0 +1,11 @@
+body{
+	background-attachment: fixed !important;
+	cursor: default;
+	font-family: arial, sans-serif;
+	font-size: small;
+	margin: 0;
+	overflow-x: hidden;
+	background: -webkit-image-set(url('../images/back.png') 1x,
+	url('../images/back.png') 2x) left top no-repeat rgb(255, 255, 255);
+	background-size: 100%;
+}
